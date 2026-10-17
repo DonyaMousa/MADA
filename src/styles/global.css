@@ -18,7 +18,7 @@
   --focus: var(--gold);
   --shadow: 0 24px 60px rgba(0, 0, 0, 0.28);
   --serif: 'Cinzel', 'Times New Roman', serif;
-  --sans: 'IBM Plex Sans', 'Segoe UI', sans-serif;
+  --sans: 'Times New Roman', Times, serif;
   --arabic: 'Noto Naskh Arabic', 'IBM Plex Sans', serif;
   --radius: 18px;
   --pad: 1.25rem;
@@ -53,7 +53,7 @@ body {
 [dir='rtl'] body { font-family: var(--arabic), var(--sans); }
 h1, h2, h3, .display {
   font-family: var(--serif);
-  font-weight: 500;
+  font-weight: 700;
   letter-spacing: 0.02em;
   line-height: 1.2;
 }

@@ -26,11 +26,14 @@ import { seedArticles } from './seedContent'
 import { seedScholarships } from './seedScholarships'
 
 export class StoreError extends Error {
+  readonly code: 'auth' | 'forbidden' | 'not_found' | 'invalid' | 'rate_limit'
+
   constructor(
     message: string,
-    readonly code: 'auth' | 'forbidden' | 'not_found' | 'invalid' | 'rate_limit',
+    code: StoreError['code'],
   ) {
     super(message)
+    this.code = code
   }
 }
 

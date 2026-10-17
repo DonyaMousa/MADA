@@ -232,4 +232,8 @@ export const dictionaries = {
   },
 } as const
 
-export type Dictionary = (typeof dictionaries)['en']
+type TranslationShape<T> = {
+  [Key in keyof T]: T[Key] extends string ? string : TranslationShape<T[Key]>
+}
+
+export type Dictionary = TranslationShape<(typeof dictionaries)['en']>
