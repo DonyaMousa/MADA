@@ -1,0 +1,1083 @@
+{
+  "run_id": "9f14c25c-802d-4c3f-9757-e4a041ac5d91",
+  "started_at": "2026-10-18T19:50:07.260105+00:00",
+  "finished_at": "2026-10-18T19:50:53.216467+00:00",
+  "mode": "local_only",
+  "remote_database_writes": 0,
+  "programs_discovered": 148,
+  "programs_attempted": 5,
+  "successfully_extracted": 4,
+  "partially_extracted": 1,
+  "failed": 0,
+  "supported_for_egypt": 4,
+  "unsupported_for_egypt": 1,
+  "needs_verification": 0,
+  "checkpoint_records_reused": 0,
+  "database_payload_validation": {
+    "passed": true,
+    "validation": "actual migration columns/enums/required fields/local provenance FKs; no database writes",
+    "counts": {
+      "scholarship_sources": 1,
+      "fetch_runs": 1,
+      "scholarships": 5,
+      "scholarship_change_history": 0,
+      "scholarship_snapshots": 5,
+      "scholarship_variants": 6,
+      "scholarship_requirements": 95,
+      "scholarship_language_requirements": 47,
+      "scholarship_required_documents": 75,
+      "scholarship_deadlines": 23,
+      "scholarship_funding": 77,
+      "scholarship_evidence": 23
+    },
+    "prepared_from_saved_responses": true
+  },
+  "network_failures": [],
+  "programs": [
+    {
+      "daad_program_id": "57135743",
+      "title": "Study Scholarships - Postgraduate Studies in the Field of Music",
+      "egypt_eligibility": "supported_for_egypt",
+      "applicant_statuses": [
+        "Graduates"
+      ],
+      "application_procedures_loaded": true,
+      "requirements_found": 7,
+      "selection_criteria_found": 5,
+      "conditional_requirements_found": 5,
+      "required_documents_found": 16,
+      "deadline_evidence": [
+        {
+          "original_text": "24.09.2026",
+          "date": "2026-09-24",
+          "deadline_at": "2026-09-25T00:00:00+02:00",
+          "timezone": "Europe/Berlin",
+          "kind": "application",
+          "certainty": "confirmed",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743&origin=2&status=3#prozess",
+          "source_section": "Application Procedure > Application deadline",
+          "applicant_status": "Graduates",
+          "year_explicit": true,
+          "requires_human_review": true,
+          "date_precision": "day",
+          "year_month": null,
+          "relative_constraint": null,
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743&origin=2&status=3#prozess",
+              "source_section": "Application Procedure > Application deadline",
+              "excerpt": "24.09.2026"
+            }
+          ]
+        },
+        {
+          "original_text": "Selection in February 2027",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "selection",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743&origin=2&status=3#prozess",
+          "source_section": "Application Procedure > Application deadline",
+          "applicant_status": "Graduates",
+          "year_explicit": true,
+          "requires_human_review": true,
+          "date_precision": "month",
+          "year_month": "2027-02",
+          "relative_constraint": null,
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743&origin=2&status=3#prozess",
+              "source_section": "Application Procedure > Application deadline",
+              "excerpt": "Selection in February 2027"
+            }
+          ]
+        },
+        {
+          "original_text": "Funding begins from October 2027",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "scholarship_start",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743&origin=2&status=3#prozess",
+          "source_section": "Application Procedure > Application deadline",
+          "applicant_status": "Graduates",
+          "year_explicit": true,
+          "requires_human_review": true,
+          "date_precision": "month",
+          "year_month": "2027-10",
+          "relative_constraint": null,
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743&origin=2&status=3#prozess",
+              "source_section": "Application Procedure > Application deadline",
+              "excerpt": "Funding begins from October 2027"
+            }
+          ]
+        },
+        {
+          "original_text": "The DAAD portal closes at 24.00 hrs. (CET or CEST) on the last application day. We recommend that you [fett|submit your application a few days before the application deadline . This ensures that you are on the safe side in the event of technical problems.",
+          "date": null,
+          "deadline_at": null,
+          "timezone": "Europe/Berlin",
+          "kind": "application",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743&origin=2&status=3#prozess",
+          "source_section": "Application Procedure > Please note",
+          "applicant_status": "Graduates",
+          "year_explicit": false,
+          "requires_human_review": true,
+          "date_precision": "time_only",
+          "year_month": null,
+          "relative_constraint": "The DAAD portal closes at 24.00 hrs. (CET or CEST) on the last application day. We recommend that you [fett|submit your application a few days before the application deadline . This ensures that you are on the safe side in the event of technical problems.",
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743&origin=2&status=3#prozess",
+              "source_section": "Application Procedure > Please note",
+              "excerpt": "The DAAD portal closes at 24.00 hrs. (CET or CEST) on the last application day. We recommend that you [fett|submit your application a few days before the application deadline . This ensures that you are on the safe side in the event of technical problems."
+            }
+          ]
+        },
+        {
+          "original_text": "Applications for this scholarship programme are possible between 1 June and the stated application deadline.",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "opening",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743&origin=2&status=3#bewerbung",
+          "source_section": "Submitting an application > General information on the application via DAAD portal",
+          "applicant_status": "Graduates",
+          "year_explicit": false,
+          "requires_human_review": true,
+          "date_precision": "yearless",
+          "year_month": null,
+          "relative_constraint": null,
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743&origin=2&status=3#bewerbung",
+              "source_section": "Submitting an application > General information on the application via DAAD portal",
+              "excerpt": "Applications for this scholarship programme are possible between 1 June and the stated application deadline."
+            }
+          ]
+        }
+      ],
+      "extraction_quality": "complete",
+      "verification_state": "needs_review",
+      "issues": [
+        "No active application portal URL published; database mapping uses official submitting-application tab"
+      ],
+      "official_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743"
+    },
+    {
+      "daad_program_id": "57135744",
+      "title": "Study Scholarships - Postgraduate Studies in the Field of Architecture",
+      "egypt_eligibility": "supported_for_egypt",
+      "applicant_statuses": [
+        "Graduates"
+      ],
+      "application_procedures_loaded": true,
+      "requirements_found": 6,
+      "selection_criteria_found": 6,
+      "conditional_requirements_found": 5,
+      "required_documents_found": 15,
+      "deadline_evidence": [
+        {
+          "original_text": "23.09.2026",
+          "date": "2026-09-23",
+          "deadline_at": "2026-09-24T00:00:00+02:00",
+          "timezone": "Europe/Berlin",
+          "kind": "application",
+          "certainty": "confirmed",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744&origin=2&status=3#prozess",
+          "source_section": "Application Procedure > Application deadline",
+          "applicant_status": "Graduates",
+          "year_explicit": true,
+          "requires_human_review": true,
+          "date_precision": "day",
+          "year_month": null,
+          "relative_constraint": null,
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744&origin=2&status=3#prozess",
+              "source_section": "Application Procedure > Application deadline",
+              "excerpt": "23.09.2026"
+            }
+          ]
+        },
+        {
+          "original_text": "Selection in January 2027",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "selection",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744&origin=2&status=3#prozess",
+          "source_section": "Application Procedure > Application deadline",
+          "applicant_status": "Graduates",
+          "year_explicit": true,
+          "requires_human_review": true,
+          "date_precision": "month",
+          "year_month": "2027-01",
+          "relative_constraint": null,
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744&origin=2&status=3#prozess",
+              "source_section": "Application Procedure > Application deadline",
+              "excerpt": "Selection in January 2027 for funding starting from September 2027"
+            }
+          ]
+        },
+        {
+          "original_text": "funding starting from September 2027",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "scholarship_start",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744&origin=2&status=3#prozess",
+          "source_section": "Application Procedure > Application deadline",
+          "applicant_status": "Graduates",
+          "year_explicit": true,
+          "requires_human_review": true,
+          "date_precision": "month",
+          "year_month": "2027-09",
+          "relative_constraint": null,
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744&origin=2&status=3#prozess",
+              "source_section": "Application Procedure > Application deadline",
+              "excerpt": "Selection in January 2027 for funding starting from September 2027"
+            }
+          ]
+        },
+        {
+          "original_text": "Applications for this scholarship programme are possible between 1 June and the stated application deadline.",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "opening",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744&origin=2&status=3#prozess",
+          "source_section": "Application Procedure > Application documents",
+          "applicant_status": "Graduates",
+          "year_explicit": false,
+          "requires_human_review": true,
+          "date_precision": "yearless",
+          "year_month": null,
+          "relative_constraint": null,
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744&origin=2&status=3#prozess",
+              "source_section": "Application Procedure > Application documents",
+              "excerpt": "Applications for this scholarship programme are possible between 1 June and the stated application deadline."
+            },
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744&origin=2&status=3#bewerbung",
+              "source_section": "Submitting an application > General information on the application via DAAD portal",
+              "excerpt": "Applications for this scholarship programme are possible between 1 June and the stated application deadline."
+            }
+          ]
+        },
+        {
+          "original_text": "The DAAD portal closes at 24.00 hrs. (CET or CEST) on the last application day. If possible, please submit your application a few days before the application deadline. This means you are on the safe side in the event of technical problems.",
+          "date": null,
+          "deadline_at": null,
+          "timezone": "Europe/Berlin",
+          "kind": "application",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744&origin=2&status=3#prozess",
+          "source_section": "Application Procedure > Please note",
+          "applicant_status": "Graduates",
+          "year_explicit": false,
+          "requires_human_review": true,
+          "date_precision": "time_only",
+          "year_month": null,
+          "relative_constraint": "The DAAD portal closes at 24.00 hrs. (CET or CEST) on the last application day. If possible, please submit your application a few days before the application deadline. This means you are on the safe side in the event of technical problems.",
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744&origin=2&status=3#prozess",
+              "source_section": "Application Procedure > Please note",
+              "excerpt": "The DAAD portal closes at 24.00 hrs. (CET or CEST) on the last application day. If possible, please submit your application a few days before the application deadline. This means you are on the safe side in the event of technical problems."
+            }
+          ]
+        }
+      ],
+      "extraction_quality": "complete",
+      "verification_state": "needs_review",
+      "issues": [
+        "No active application portal URL published; database mapping uses official submitting-application tab"
+      ],
+      "official_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744"
+    },
+    {
+      "daad_program_id": "50026200",
+      "title": "Study Scholarships - Master Studies for All Academic Disciplines",
+      "egypt_eligibility": "unsupported_for_egypt",
+      "applicant_statuses": [
+        "Graduates"
+      ],
+      "application_procedures_loaded": false,
+      "requirements_found": 10,
+      "selection_criteria_found": 13,
+      "conditional_requirements_found": 9,
+      "required_documents_found": 10,
+      "deadline_evidence": [
+        {
+          "original_text": "You yourself are responsible for ensuring your application for admission to the German university for your chosen study programme is submitted by the due date. It is therefore important that you find out about admission requirements, application and enrolment deadlines at your host university and regulations regarding entry into Germany in good time. If you have not yet received notification of admission at the time of application, you must submit this before the funding period begins. A Scholarship Award Letter from the DAAD is only valid if you have been admitted to study at the host university named in your application.",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "supporting_documents",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200#voraussetzungen",
+          "source_section": "Application requirements > What requirements must be met?",
+          "applicant_status": null,
+          "year_explicit": false,
+          "requires_human_review": true,
+          "date_precision": "relative",
+          "year_month": null,
+          "relative_constraint": "You yourself are responsible for ensuring your application for admission to the German university for your chosen study programme is submitted by the due date. It is therefore important that you find out about admission requirements, application and enrolment deadlines at your host university and regulations regarding entry into Germany in good time. If you have not yet received notification of admission at the time of application, you must submit this before the funding period begins. A Scholarship Award Letter from the DAAD is only valid if you have been admitted to study at the host university named in your application.",
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200#voraussetzungen",
+              "source_section": "Application requirements > What requirements must be met?",
+              "excerpt": "You yourself are responsible for ensuring your application for admission to the German university for your chosen study programme is submitted by the due date. It is therefore important that you find out about admission requirements, application and enrolment deadlines at your host university and regulations regarding entry into Germany in good time. If you have not yet received notification of admission at the time of application, you must submit this before the funding period begins. A Scholarship Award Letter from the DAAD is only valid if you have been admitted to study at the host university named in your application."
+            }
+          ]
+        },
+        {
+          "original_text": "Applications for this scholarship programme are possible between 1 June and the stated application deadline.",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "opening",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200#prozess",
+          "source_section": "Application Procedure > Application documents",
+          "applicant_status": null,
+          "year_explicit": false,
+          "requires_human_review": true,
+          "date_precision": "yearless",
+          "year_month": null,
+          "relative_constraint": null,
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200#prozess",
+              "source_section": "Application Procedure > Application documents",
+              "excerpt": "Applications for this scholarship programme are possible between 1 June and the stated application deadline."
+            },
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200#bewerbung",
+              "source_section": "Submitting an application > General information on the application via DAAD portal",
+              "excerpt": "Applications for this scholarship programme are possible between 1 June and the stated application deadline."
+            }
+          ]
+        },
+        {
+          "original_text": "Your application is only valid if you submit all the required documents to the DAAD portal by the application deadline.",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "supporting_documents",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200#prozess",
+          "source_section": "Application Procedure > Please note",
+          "applicant_status": null,
+          "year_explicit": false,
+          "requires_human_review": true,
+          "date_precision": "relative",
+          "year_month": null,
+          "relative_constraint": "Your application is only valid if you submit all the required documents to the DAAD portal by the application deadline.",
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200#prozess",
+              "source_section": "Application Procedure > Please note",
+              "excerpt": "Your application is only valid if you submit all the required documents to the DAAD portal by the application deadline."
+            }
+          ]
+        }
+      ],
+      "extraction_quality": "partial",
+      "verification_state": "needs_review",
+      "issues": [
+        "No active application portal URL published; database mapping uses official submitting-application tab",
+        "Graduates: Egypt absent from authoritative list",
+        "No explicit full-date application deadline; no current cycle inferred"
+      ],
+      "official_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200"
+    },
+    {
+      "daad_program_id": "57742121",
+      "title": "Research Grants in Germany",
+      "egypt_eligibility": "supported_for_egypt",
+      "applicant_statuses": [
+        "Doctoral candidates/PhD students",
+        "Postdoctoral researchers"
+      ],
+      "application_procedures_loaded": true,
+      "requirements_found": 10,
+      "selection_criteria_found": 24,
+      "conditional_requirements_found": 12,
+      "required_documents_found": 22,
+      "deadline_evidence": [
+        {
+          "original_text": "31.08.2026",
+          "date": "2026-08-31",
+          "deadline_at": "2026-09-01T00:00:00+02:00",
+          "timezone": "Europe/Berlin",
+          "kind": "application",
+          "certainty": "confirmed",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=4#prozess",
+          "source_section": "Application Procedure > Application deadline",
+          "applicant_status": "Doctoral candidates/PhD students",
+          "year_explicit": true,
+          "requires_human_review": true,
+          "date_precision": "day",
+          "year_month": null,
+          "relative_constraint": null,
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=4#prozess",
+              "source_section": "Application Procedure > Application deadline",
+              "excerpt": "31.08.2026"
+            }
+          ]
+        },
+        {
+          "original_text": "Selection in February 2027",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "selection",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=4#prozess",
+          "source_section": "Application Procedure > Application deadline",
+          "applicant_status": "Doctoral candidates/PhD students",
+          "year_explicit": true,
+          "requires_human_review": true,
+          "date_precision": "month",
+          "year_month": "2027-02",
+          "relative_constraint": null,
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=4#prozess",
+              "source_section": "Application Procedure > Application deadline",
+              "excerpt": "Selection in February 2027"
+            }
+          ]
+        },
+        {
+          "original_text": "Start of funding in May 2027",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "scholarship_start",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=4#prozess",
+          "source_section": "Application Procedure > Application deadline",
+          "applicant_status": "Doctoral candidates/PhD students",
+          "year_explicit": true,
+          "requires_human_review": true,
+          "date_precision": "month",
+          "year_month": "2027-05",
+          "relative_constraint": null,
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=4#prozess",
+              "source_section": "Application Procedure > Application deadline",
+              "excerpt": "Start of funding in May 2027"
+            }
+          ]
+        },
+        {
+          "original_text": "The access to the DAAD portal opens at least 6 weeks before the application deadline.",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "opening",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=4#prozess",
+          "source_section": "Application Procedure > Application documents",
+          "applicant_status": "Doctoral candidates/PhD students",
+          "year_explicit": false,
+          "requires_human_review": true,
+          "date_precision": "relative",
+          "year_month": null,
+          "relative_constraint": "The access to the DAAD portal opens at least 6 weeks before the application deadline.",
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=4#prozess",
+              "source_section": "Application Procedure > Application documents",
+              "excerpt": "The access to the DAAD portal opens at least 6 weeks before the application deadline."
+            },
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=4#bewerbung",
+              "source_section": "Submitting an application > General information on the application via DAAD portal",
+              "excerpt": "The access to the DAAD portal opens at least 6 weeks before the application deadline."
+            }
+          ]
+        },
+        {
+          "original_text": "Your application is only valid if you submit all the required documents to the DAAD portal by the application deadline.",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "supporting_documents",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=4#prozess",
+          "source_section": "Application Procedure > Please note",
+          "applicant_status": "Doctoral candidates/PhD students",
+          "year_explicit": false,
+          "requires_human_review": true,
+          "date_precision": "relative",
+          "year_month": null,
+          "relative_constraint": "Your application is only valid if you submit all the required documents to the DAAD portal by the application deadline.",
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=4#prozess",
+              "source_section": "Application Procedure > Please note",
+              "excerpt": "Your application is only valid if you submit all the required documents to the DAAD portal by the application deadline."
+            }
+          ]
+        },
+        {
+          "original_text": "31.08.2026",
+          "date": "2026-08-31",
+          "deadline_at": "2026-09-01T00:00:00+02:00",
+          "timezone": "Europe/Berlin",
+          "kind": "application",
+          "certainty": "confirmed",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=2#prozess",
+          "source_section": "Application Procedure > Application deadline",
+          "applicant_status": "Postdoctoral researchers",
+          "year_explicit": true,
+          "requires_human_review": true,
+          "date_precision": "day",
+          "year_month": null,
+          "relative_constraint": null,
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=2#prozess",
+              "source_section": "Application Procedure > Application deadline",
+              "excerpt": "31.08.2026"
+            }
+          ]
+        },
+        {
+          "original_text": "Selection in February 2027",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "selection",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=2#prozess",
+          "source_section": "Application Procedure > Application deadline",
+          "applicant_status": "Postdoctoral researchers",
+          "year_explicit": true,
+          "requires_human_review": true,
+          "date_precision": "month",
+          "year_month": "2027-02",
+          "relative_constraint": null,
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=2#prozess",
+              "source_section": "Application Procedure > Application deadline",
+              "excerpt": "Selection in February 2027"
+            }
+          ]
+        },
+        {
+          "original_text": "Start of funding in May 2027",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "scholarship_start",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=2#prozess",
+          "source_section": "Application Procedure > Application deadline",
+          "applicant_status": "Postdoctoral researchers",
+          "year_explicit": true,
+          "requires_human_review": true,
+          "date_precision": "month",
+          "year_month": "2027-05",
+          "relative_constraint": null,
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=2#prozess",
+              "source_section": "Application Procedure > Application deadline",
+              "excerpt": "Start of funding in May 2027"
+            }
+          ]
+        },
+        {
+          "original_text": "The access to the DAAD portal opens at least 6 weeks before the application deadline.",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "opening",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=2#prozess",
+          "source_section": "Application Procedure > Application documents",
+          "applicant_status": "Postdoctoral researchers",
+          "year_explicit": false,
+          "requires_human_review": true,
+          "date_precision": "relative",
+          "year_month": null,
+          "relative_constraint": "The access to the DAAD portal opens at least 6 weeks before the application deadline.",
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=2#prozess",
+              "source_section": "Application Procedure > Application documents",
+              "excerpt": "The access to the DAAD portal opens at least 6 weeks before the application deadline."
+            },
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=2#bewerbung",
+              "source_section": "Submitting an application > General information on the application via DAAD portal",
+              "excerpt": "The access to the DAAD portal opens at least 6 weeks before the application deadline."
+            }
+          ]
+        },
+        {
+          "original_text": "Your application is only valid if you submit all the required documents to the DAAD portal by the application deadline.",
+          "date": null,
+          "deadline_at": null,
+          "timezone": null,
+          "kind": "supporting_documents",
+          "certainty": "unknown",
+          "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=2#prozess",
+          "source_section": "Application Procedure > Please note",
+          "applicant_status": "Postdoctoral researchers",
+          "year_explicit": false,
+          "requires_human_review": true,
+          "date_precision": "relative",
+          "year_month": null,
+          "relative_constraint": "Your application is only valid if you submit all the required documents to the DAAD portal by the application deadline.",
+          "evidence_references": [
+            {
+              "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=2#prozess",
+              "source_section": "Application Procedure > Please note",
+              "excerpt": "Your application is only valid if you submit all the required documents to the DAAD portal by the application deadline."
+            }
+          ]
+        }
+      ],
+      "extraction_quality": "complete",
+      "verification_state": "needs_review",
+      "issues": [
+        "No active application portal URL published; database mapping uses official submitting-application tab"
+      ],
+      "official_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121"
+    },
+    {
+      "daad_program_id": "50076777",
+      "title": "Development-Related Postgraduate Courses (EPOS)",
+      "egypt_eligibility": "supported_for_egypt",
+      "applicant_statuses": [
+        "Graduates"
+      ],
+      "application_procedures_loaded": true,
+      "requirements_found": 10,
+      "selection_criteria_found": 4,
+      "conditional_requirements_found": 3,
+      "required_documents_found": 12,
+      "deadline_evidence": [],
+      "extraction_quality": "complete",
+      "verification_state": "needs_review",
+      "issues": [
+        "EPOS umbrella: course-specific deadlines must be checked on each official course website; never use one programme deadline for all courses",
+        "No active application portal URL published; database mapping uses official submitting-application tab",
+        "No explicit full-date application deadline; no current cycle inferred"
+      ],
+      "official_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777"
+    }
+  ],
+  "quality_review": {
+    "reprocessed_at": "2026-10-18T20:29:59.530957+00:00",
+    "method": "Replay of SHA256-checked archived official responses, not a new crawl",
+    "network_requests": 0,
+    "remote_database_writes": 0,
+    "egypt_form_audit": [
+      {
+        "daad_program_id": "57135743",
+        "official_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743",
+        "source_evidence_reconciliation": {
+          "passed": true,
+          "requirements_checked": 12,
+          "documents_checked": 16,
+          "timing_records_checked": 5,
+          "course_rows_checked": 0,
+          "all_values_trace_to_archived_official_text": true
+        },
+        "form_evidence_sha256": "39ad7d1e9a1b00014c9ea48148be8409cdbf837ad6d0a115cc4506f7c3455af7",
+        "country_semantics": "„Country“ is the country in which you are living and from which you are applying. If you come from another country, please contact us to find out whether you are eligible for the programme of your choice. More Information",
+        "variants": [
+          {
+            "status": "Graduates",
+            "country_options_count": 176,
+            "egypt_selectable": true,
+            "selection_confirmed": true,
+            "procedure_loaded": true,
+            "outcome": "supported_for_egypt",
+            "evidence_urls": [
+              "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743&origin=2&status=3#prozess"
+            ],
+            "exclusion_notice_present": true
+          }
+        ]
+      },
+      {
+        "daad_program_id": "57135744",
+        "official_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744",
+        "source_evidence_reconciliation": {
+          "passed": true,
+          "requirements_checked": 12,
+          "documents_checked": 15,
+          "timing_records_checked": 5,
+          "course_rows_checked": 0,
+          "all_values_trace_to_archived_official_text": true
+        },
+        "form_evidence_sha256": "a04ae1d6490140c9e452d4621bcb1f060927b30006b313b28c722ca5426c2d98",
+        "country_semantics": "„Country“ is the country in which you are living and from which you are applying. If you come from another country, please contact us to find out whether you are eligible for the programme of your choice. More Information",
+        "variants": [
+          {
+            "status": "Graduates",
+            "country_options_count": 176,
+            "egypt_selectable": true,
+            "selection_confirmed": true,
+            "procedure_loaded": true,
+            "outcome": "supported_for_egypt",
+            "evidence_urls": [
+              "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744&origin=2&status=3#prozess"
+            ],
+            "exclusion_notice_present": true
+          }
+        ]
+      },
+      {
+        "daad_program_id": "50026200",
+        "official_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200",
+        "source_evidence_reconciliation": {
+          "passed": true,
+          "requirements_checked": 23,
+          "documents_checked": 10,
+          "timing_records_checked": 3,
+          "course_rows_checked": 0,
+          "all_values_trace_to_archived_official_text": true
+        },
+        "form_evidence_sha256": "bdc62430595800d5391d57aa5c9cb0524cde17d3cc39579d611cd360f03dbb6b",
+        "country_semantics": "„Country“ is the country in which you are living and from which you are applying. If you come from another country, please contact us to find out whether you are eligible for the programme of your choice. More Information",
+        "variants": [
+          {
+            "status": "Graduates",
+            "country_options_count": 64,
+            "egypt_selectable": false,
+            "selection_confirmed": false,
+            "procedure_loaded": false,
+            "outcome": "unsupported_for_egypt",
+            "evidence_urls": [],
+            "exclusion_notice_present": true
+          }
+        ]
+      },
+      {
+        "daad_program_id": "57742121",
+        "official_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121",
+        "source_evidence_reconciliation": {
+          "passed": true,
+          "requirements_checked": 34,
+          "documents_checked": 22,
+          "timing_records_checked": 10,
+          "course_rows_checked": 0,
+          "all_values_trace_to_archived_official_text": true
+        },
+        "form_evidence_sha256": "1359785f34c33114c09746c4cb7e4608f6e0a9f64aa92d0d0bbedefecb0e0d14",
+        "country_semantics": "„Country“ is the country in which you are living and from which you are applying. If you come from another country, please contact us to find out whether you are eligible for the programme of your choice. More Information",
+        "variants": [
+          {
+            "status": "Doctoral candidates/PhD students",
+            "country_options_count": 169,
+            "egypt_selectable": true,
+            "selection_confirmed": true,
+            "procedure_loaded": true,
+            "outcome": "supported_for_egypt",
+            "evidence_urls": [
+              "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=4#prozess"
+            ],
+            "exclusion_notice_present": true
+          },
+          {
+            "status": "Postdoctoral researchers",
+            "country_options_count": 169,
+            "egypt_selectable": true,
+            "selection_confirmed": true,
+            "procedure_loaded": true,
+            "outcome": "supported_for_egypt",
+            "evidence_urls": [
+              "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&origin=2&status=2#prozess"
+            ],
+            "exclusion_notice_present": true
+          }
+        ]
+      },
+      {
+        "daad_program_id": "50076777",
+        "official_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777",
+        "source_evidence_reconciliation": {
+          "passed": true,
+          "requirements_checked": 14,
+          "documents_checked": 12,
+          "timing_records_checked": 0,
+          "course_rows_checked": 25,
+          "all_values_trace_to_archived_official_text": true
+        },
+        "form_evidence_sha256": "84d873bdb8bb5a1eba68b8fda66a24e7ffdc354a237ead68282ea06f99766d54",
+        "country_semantics": "„Country“ is the country in which you are living and from which you are applying. If you come from another country, please contact us to find out whether you are eligible for the programme of your choice. More Information",
+        "variants": [
+          {
+            "status": "Graduates",
+            "country_options_count": 130,
+            "egypt_selectable": true,
+            "selection_confirmed": true,
+            "procedure_loaded": true,
+            "outcome": "supported_for_egypt",
+            "evidence_urls": [
+              "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777&origin=2&status=3#prozess"
+            ],
+            "exclusion_notice_present": true
+          }
+        ]
+      }
+    ],
+    "changes": [
+      {
+        "daad_program_id": "57135743",
+        "requirements_before": 77,
+        "requirements_after": 7,
+        "deadlines_before": 13,
+        "deadlines_after": 5,
+        "courses_before": 0,
+        "courses_after": 0,
+        "reclassified_requirements": [
+          {
+            "text": "You have not resided in Germany for more than 15 months prior to the application deadline.",
+            "before": "language",
+            "after": "residence",
+            "applicant_status": "Graduates"
+          }
+        ]
+      },
+      {
+        "daad_program_id": "57135744",
+        "requirements_before": 69,
+        "requirements_after": 6,
+        "deadlines_before": 12,
+        "deadlines_after": 5,
+        "courses_before": 0,
+        "courses_after": 0,
+        "reclassified_requirements": [
+          {
+            "text": "Your application cannot be considered, if you have been resident in Germany for longer than 15 months at the application deadline.",
+            "before": "language",
+            "after": "residence",
+            "applicant_status": "Graduates"
+          }
+        ]
+      },
+      {
+        "daad_program_id": "50026200",
+        "requirements_before": 50,
+        "requirements_after": 10,
+        "deadlines_before": 12,
+        "deadlines_after": 3,
+        "courses_before": 0,
+        "courses_after": 0,
+        "reclassified_requirements": [
+          {
+            "text": "You yourself are responsible for ensuring your application for admission to the German university for your chosen study programme is submitted by the due date. It is therefore important that you find out about admission requirements, application and enrolment deadlines at your host university and regulations regarding entry into Germany in good time. If you have not yet received notification of admission at the time of application, you must submit this before the funding period begins. A Scholarship Award Letter from the DAAD is only valid if you have been admitted to study at the host university named in your application.",
+            "before": "language",
+            "after": "university_admission",
+            "applicant_status": null
+          },
+          {
+            "text": "Your application cannot be considered, if you have been resident in Germany for longer than 15 months at the application deadline.",
+            "before": "language",
+            "after": "residence",
+            "applicant_status": null
+          }
+        ]
+      },
+      {
+        "daad_program_id": "57742121",
+        "requirements_before": 90,
+        "requirements_after": 10,
+        "deadlines_before": 34,
+        "deadlines_after": 10,
+        "courses_before": 0,
+        "courses_after": 0,
+        "reclassified_requirements": [
+          {
+            "text": "are doing your doctorate at a university or research institution outside Germany or",
+            "before": "language",
+            "after": "research",
+            "applicant_status": "Doctoral candidates/PhD students"
+          },
+          {
+            "text": "You cannot apply if you are doing your entire doctorate at a German university.",
+            "before": "language",
+            "after": "research",
+            "applicant_status": "Doctoral candidates/PhD students"
+          },
+          {
+            "text": "Doctoral students: The start of your doctorate should not be more than 3 years ago at the application deadline.",
+            "before": "research",
+            "after": "graduation_recency",
+            "applicant_status": "Doctoral candidates/PhD students"
+          },
+          {
+            "text": "Your application cannot be considered, if you have been resident in Germany for longer than 15 months at the application deadline.",
+            "before": "language",
+            "after": "residence",
+            "applicant_status": "Doctoral candidates/PhD students"
+          },
+          {
+            "text": "have already completed your doctorate (post-doc, up to 4 years after completing your doctorate)",
+            "before": "general",
+            "after": "research",
+            "applicant_status": "Postdoctoral researchers"
+          },
+          {
+            "text": "You cannot apply if you are doing your entire doctorate at a German university.",
+            "before": "language",
+            "after": "research",
+            "applicant_status": "Postdoctoral researchers"
+          },
+          {
+            "text": "Postdocs: You should not have completed your doctorate more than 4 years before the application deadline.",
+            "before": "general",
+            "after": "graduation_recency",
+            "applicant_status": "Postdoctoral researchers"
+          },
+          {
+            "text": "Your application cannot be considered, if you have been resident in Germany for longer than 15 months at the application deadline.",
+            "before": "language",
+            "after": "residence",
+            "applicant_status": "Postdoctoral researchers"
+          }
+        ]
+      },
+      {
+        "daad_program_id": "50076777",
+        "requirements_before": 47,
+        "requirements_after": 10,
+        "deadlines_before": 36,
+        "deadlines_after": 0,
+        "courses_before": 0,
+        "courses_after": 25,
+        "reclassified_requirements": [
+          {
+            "text": "Graduates with at least two years' professional experience from the following countries: list of eligible countries",
+            "before": "graduation_recency",
+            "after": "professional_experience",
+            "applicant_status": "Graduates"
+          },
+          {
+            "text": "has completed an academic degree with far above average results (upper third) and at least two years of related professional experience after the first degree (bachelor) at the time of application.",
+            "before": "professional_experience",
+            "after": "academic_performance",
+            "applicant_status": "Graduates"
+          },
+          {
+            "text": "has completed an academic degree with far above average results (upper third) and at least two years of related professional experience after the first degree (bachelor) at the time of application.",
+            "before": "academic_performance",
+            "after": "professional_experience",
+            "applicant_status": "Graduates"
+          },
+          {
+            "text": "His/her academic degrees should normally not be more than six years old.",
+            "before": "previous_degree",
+            "after": "graduation_recency",
+            "applicant_status": "Graduates"
+          },
+          {
+            "text": "Applicants who have been resident in Germany for longer than 15 months at the application deadline cannot be considered",
+            "before": "language",
+            "after": "residence",
+            "applicant_status": "Graduates"
+          }
+        ]
+      }
+    ],
+    "mapping_notes": [
+      "Courses, partial month dates, relative timing, obligation and merged evidence references are preserved losslessly in existing scholarship_snapshots.normalized_payload. Existing typed tables keep supported columns; no invented SQL columns or programme-wide EPOS date.",
+      "Repeated statements are deduplicated within applicant scope; distinct doctoral and postdoctoral scopes remain separate."
+    ],
+    "remaining_uncertainties": [
+      "All 25 EPOS course rows defer deadlines to course websites; those websites have not been fetched in this capture.",
+      "Qualitative academic standards remain text; no numeric GPA is inferred.",
+      "Egypt is country of residence/application, not citizenship or an individual eligibility verdict.",
+      "Month-only selection/funding dates have no invented day; relative opening/document deadlines have no invented date.",
+      "Generic Master Studies information is retained, but Egypt is absent from its authoritative form country list.",
+      "All deterministic conditions and document applicability still require editorial review."
+    ]
+  },
+  "artifact_validation": {
+    "passed": true,
+    "checks": 60,
+    "checked_at": "2026-10-18T20:31:32.293145+00:00",
+    "programs": 5,
+    "scope": "Saved live records, exact archived response hashes, returned Egypt/status evidence and actual migration payload mapping",
+    "database_writes": 0,
+    "network_requests": 0
+  },
+  "executed_test_results": {
+    "offline": {
+      "tests": 99,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    "live": {
+      "tests": 1,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    }
+  },
+  "local_postgresql_validation": {
+    "passed": true,
+    "checked_at": "2026-10-18T20:31:05.021Z",
+    "engine": "PostgreSQL 17.5 / PGlite",
+    "counts": {
+      "scholarship_sources": 1,
+      "fetch_runs": 1,
+      "scholarships": 5,
+      "scholarship_snapshots": 5,
+      "scholarship_variants": 6,
+      "scholarship_requirements": 95,
+      "scholarship_language_requirements": 47,
+      "scholarship_required_documents": 75,
+      "scholarship_deadlines": 23,
+      "scholarship_funding": 77,
+      "scholarship_evidence": 23,
+      "scholarship_change_history": 0
+    },
+    "rows_checked": 358,
+    "remote_writes": 0,
+    "payload_sha256": "fa72c035b85bacf35817da840472dab228373fb171f6b247865f2d396682db39",
+    "transaction": "rolled back; disposable local validation only",
+    "checks": [
+      "real typed row inserts",
+      "all SQL CHECKs and FKs",
+      "deferred latest snapshot ownership",
+      "research IELTS 6.5 / TOEFL iBT 79",
+      "publication list scoped to postdoctoral applicants",
+      "no invented minimum GPA",
+      "25 course rows and websites survive snapshot JSON round-trip",
+      "no shared EPOS deadline",
+      "residence is not language",
+      "all scholarships unpublished and needs_review"
+    ]
+  }
+}

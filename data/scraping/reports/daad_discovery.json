@@ -1,0 +1,2628 @@
+{
+  "catalogue_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/",
+  "data_url": "https://www2.daad.de/bundles/daadstipendiendatenbanklsh/data/a/js/scholarships.js?ea6a8f3ff&cb=20261018073500",
+  "global_country_filter": null,
+  "mechanism": "public TAFFY JSON dataset; client-side pagination, five results/page",
+  "available_count": 148,
+  "discovered_count": 148,
+  "pages_walked": 30,
+  "truncated": false,
+  "programs": [
+    {
+      "daad_program_id": "10000092",
+      "title": "Prussian Cultural Heritage Foundation: Grant Programme",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000092"
+    },
+    {
+      "daad_program_id": "10000101",
+      "title": "State of Bavaria: Max Weber Programme",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000101"
+    },
+    {
+      "daad_program_id": "10000102",
+      "title": "European Union: Erasmus+ Mobility Programme for Higher Education Students",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000102"
+    },
+    {
+      "daad_program_id": "10000103",
+      "title": "Institutions of Higher Education in Hesse: Doctoral Scholarships",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000103"
+    },
+    {
+      "daad_program_id": "10000107",
+      "title": "Ministry for Science, Culture, Federal and European Affairs of Mecklenburg-West Pomerania: PhD Scholarships and Caspar-David-Friedrich Scholarships (CDF)",
+      "provider_is_daad": false,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000107"
+    },
+    {
+      "daad_program_id": "10000108",
+      "title": "Konrad-Adenauer-Stiftung (KAS): Scholarship Programme for International Students",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000108"
+    },
+    {
+      "daad_program_id": "10000110",
+      "title": "Alexander von Humboldt Foundation: Humboldt Research Fellowships for Postdoctoral Researchers",
+      "provider_is_daad": false,
+      "status_ids": [
+        2
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000110"
+    },
+    {
+      "daad_program_id": "10000113",
+      "title": "Heinrich Böll Foundation: PhD scholarship",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000113"
+    },
+    {
+      "daad_program_id": "10000114",
+      "title": "Catholic Academic Exchange Service (KAAD): Eastern Europe Programme",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000114"
+    },
+    {
+      "daad_program_id": "10000117",
+      "title": "Evangelisches Studienwerk: Scholarship for Students",
+      "provider_is_daad": false,
+      "status_ids": [
+        1
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000117"
+    },
+    {
+      "daad_program_id": "10000119",
+      "title": "Foundation of German Business (sdw): Academic study sponsorship",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000119"
+    },
+    {
+      "daad_program_id": "10000121",
+      "title": "European Union: Erasmus+ Mobility Project for Higher Education Teachers and Staff",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000121"
+    },
+    {
+      "daad_program_id": "10000123",
+      "title": "Herder Institute for Historical Research on East-Central Europe: Herder Fellowship",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000123"
+    },
+    {
+      "daad_program_id": "10000124",
+      "title": "Heinrich Böll Foundation: Student Scholarship",
+      "provider_is_daad": false,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000124"
+    },
+    {
+      "daad_program_id": "10000126",
+      "title": "Friedrich Ebert Foundation: Scholarship for International Doctoral Students",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000126"
+    },
+    {
+      "daad_program_id": "10000127",
+      "title": "German Federal Environmental Foundation (DBU): PhD Scholarship Programme",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000127"
+    },
+    {
+      "daad_program_id": "10000128",
+      "title": "Bavarian Academic Center for Central, Eastern and Southeastern Europe: One-year scholarship programme sponsored by the Free State of Bavaria for graduates of Central, Eastern and Southeastern European states (BAYHOST)",
+      "provider_is_daad": false,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000128"
+    },
+    {
+      "daad_program_id": "10000130",
+      "title": "Gerda Henkel Foundation: Research Scholarships",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000130"
+    },
+    {
+      "daad_program_id": "10000131",
+      "title": "Foundation of the Berlin House of Representatives: Grant Programme",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000131"
+    },
+    {
+      "daad_program_id": "10000132",
+      "title": "Hanns Seidel Foundation: PhD scholarships",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000132"
+    },
+    {
+      "daad_program_id": "10000133",
+      "title": "Alexander von Humboldt Foundation: Hezekiah Wardwell Fellowship",
+      "provider_is_daad": false,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000133"
+    },
+    {
+      "daad_program_id": "10000134",
+      "title": "Hans Böckler Foundation: PhD Fellowship",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000134"
+    },
+    {
+      "daad_program_id": "10000136",
+      "title": "Copernicus Hamburg: Copernicus Fellowship Programme",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000136"
+    },
+    {
+      "daad_program_id": "10000137",
+      "title": "German Research Foundation (DFG): Heisenberg Programme",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000137"
+    },
+    {
+      "daad_program_id": "10000139",
+      "title": "Evonik Foundation: Evonik Foundation Scholarship",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        3,
+        4
+      ],
+      "subject_groups": [
+        "C"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000139"
+    },
+    {
+      "daad_program_id": "10000141",
+      "title": "German Cancer Research Center (DKFZ): International PhD Programme",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "C",
+        "D",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000141"
+    },
+    {
+      "daad_program_id": "10000144",
+      "title": "Herzog August Bibliothek: Doctoral Fellowships",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000144"
+    },
+    {
+      "daad_program_id": "10000148",
+      "title": "Boehringer Ingelheim Fonds: Travel Grants",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        4
+      ],
+      "subject_groups": [
+        "C"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000148"
+    },
+    {
+      "daad_program_id": "10000150",
+      "title": "Foundation of German Business (sdw): Support for doctoral candidates",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000150"
+    },
+    {
+      "daad_program_id": "10000153",
+      "title": "Friedrich Ebert Foundation: Scholarship for International Students",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000153"
+    },
+    {
+      "daad_program_id": "10000154",
+      "title": "Standing Conference of the Ministers of Education and Cultural Affairs: Foreign Language Assistants from Abroad Teaching at German Schools",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        3
+      ],
+      "subject_groups": [
+        "A"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000154"
+    },
+    {
+      "daad_program_id": "10000158",
+      "title": "Fulbright Commission: Fulbright Programme",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000158"
+    },
+    {
+      "daad_program_id": "10000159",
+      "title": "Cusanuswerk: Undergraduate and Postgraduate Fellowships",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000159"
+    },
+    {
+      "daad_program_id": "10000161",
+      "title": "German Research Foundation (DFG): Research Grant",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000161"
+    },
+    {
+      "daad_program_id": "10000162",
+      "title": "Federal Ministry of Education and Research: Federal Training Assistance Act (Bundesausbildungsförderungsgesetz, or BAföG)",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000162"
+    },
+    {
+      "daad_program_id": "10000164",
+      "title": "Boehringer Ingelheim Fonds: PhD Fellowships",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "C"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000164"
+    },
+    {
+      "daad_program_id": "10000165",
+      "title": "Gerda Henkel Foundation: PhD Scholarships",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000165"
+    },
+    {
+      "daad_program_id": "10000168",
+      "title": "Catholic Academic Exchange Service (KAAD): Scholarship Programme 1",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000168"
+    },
+    {
+      "daad_program_id": "10000169",
+      "title": "Alexander von Humboldt Foundation: Humboldt Research Fellowship for Experienced Researchers",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000169"
+    },
+    {
+      "daad_program_id": "10000171",
+      "title": "Hermann Niermann Foundation/European Institute for German Language: Hermann Niermann Scholarships",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000171"
+    },
+    {
+      "daad_program_id": "10000172",
+      "title": "Ministry of Science, Research and the Arts Baden-Württemberg: Mathilde Planck Contract Lectureships (MPL)",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000172"
+    },
+    {
+      "daad_program_id": "10000178",
+      "title": "Baden-Württemberg Stiftung: The Baden-Württemberg-STIPENDIUM for Students",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000178"
+    },
+    {
+      "daad_program_id": "10000183",
+      "title": "Herzog August Bibliothek: Short-term Fellowships",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000183"
+    },
+    {
+      "daad_program_id": "10000185",
+      "title": "The American Friends of the Herzog August Bibliothek (HAB): Travel Grant",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000185"
+    },
+    {
+      "daad_program_id": "10000187",
+      "title": "Universität Hamburg: Merit Scholarships for International Students",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000187"
+    },
+    {
+      "daad_program_id": "10000198",
+      "title": "German National Academic Foundation: Leo Baeck Fellowship Programme",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000198"
+    },
+    {
+      "daad_program_id": "10000203",
+      "title": "German Federal Environmental Foundation (DBU): Fellowship Programme with CEE Countries",
+      "provider_is_daad": false,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000203"
+    },
+    {
+      "daad_program_id": "10000206",
+      "title": "Bayer Foundation: Fellowship for Medical Sciences",
+      "provider_is_daad": false,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000206"
+    },
+    {
+      "daad_program_id": "10000207",
+      "title": "Federal Ministry of Education and Research: Deutschlandstipendium",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000207"
+    },
+    {
+      "daad_program_id": "10000208",
+      "title": "Bayer Foundation: Fellowship in Drug Discovery Sciences",
+      "provider_is_daad": false,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "C",
+        "D",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000208"
+    },
+    {
+      "daad_program_id": "10000210",
+      "title": "Evangelisches Studienwerk: Scholarship for Doctoral Students",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000210"
+    },
+    {
+      "daad_program_id": "10000212",
+      "title": "German Bundestag: International Parliamentary Scholarships",
+      "provider_is_daad": false,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000212"
+    },
+    {
+      "daad_program_id": "10000220",
+      "title": "Rosa Luxemburg Foundation: Scholarship Programme for International Doctoral Students",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000220"
+    },
+    {
+      "daad_program_id": "10000221",
+      "title": "Bayer Foundation: Fellowship for STEM Student Teachers & Teachers",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "C",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000221"
+    },
+    {
+      "daad_program_id": "10000231",
+      "title": "Munich Aerospace: PhD Scholarships",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000231"
+    },
+    {
+      "daad_program_id": "10000233",
+      "title": "Heinrich Böll Foundation: Sur-Place Scholarship Programme",
+      "provider_is_daad": false,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000233"
+    },
+    {
+      "daad_program_id": "10000300",
+      "title": "Country-related cooperation programme with Argentina (ALEARG)",
+      "provider_is_daad": true,
+      "status_ids": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000300"
+    },
+    {
+      "daad_program_id": "10000312",
+      "title": "DAAD/NSTC- Sandwich- Scholarship Programme",
+      "provider_is_daad": true,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000312"
+    },
+    {
+      "daad_program_id": "10000321",
+      "title": "German Studies Research Grant",
+      "provider_is_daad": true,
+      "status_ids": [
+        1,
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000321"
+    },
+    {
+      "daad_program_id": "10000335",
+      "title": "Government Scholarships Programme Oman",
+      "provider_is_daad": true,
+      "status_ids": [
+        1
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000335"
+    },
+    {
+      "daad_program_id": "10000344",
+      "title": "Government Scholarships Programme Tunisia",
+      "provider_is_daad": true,
+      "status_ids": [
+        1
+      ],
+      "subject_groups": [
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000344"
+    },
+    {
+      "daad_program_id": "10000366",
+      "title": "BAYHOST: Scholarships for students and young academics from Central, Eastern and Southeastern Europe for summer language courses",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000366"
+    },
+    {
+      "daad_program_id": "10000372",
+      "title": "German-Czech Fund for the Future: Grants for Study Stays of German and Czech Students in the Neighbour Countries",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000372"
+    },
+    {
+      "daad_program_id": "10000381",
+      "title": "Important Information",
+      "provider_is_daad": true,
+      "status_ids": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000381"
+    },
+    {
+      "daad_program_id": "10000382",
+      "title": "Canon Foundation Research Fellowship",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000382"
+    },
+    {
+      "daad_program_id": "10000384",
+      "title": "Evangelisches Studienwerk: Scholarship for Students With Refugee Status",
+      "provider_is_daad": false,
+      "status_ids": [
+        1
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000384"
+    },
+    {
+      "daad_program_id": "10000398",
+      "title": "German Bundestag: International Parliamentary Scholarships: Programme Arab Countries",
+      "provider_is_daad": false,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000398"
+    },
+    {
+      "daad_program_id": "10000406",
+      "title": "German Academic Scholarship Foundation: Doctoral Scholarships",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000406"
+    },
+    {
+      "daad_program_id": "10000412",
+      "title": "German Academic Scholarship Foundation: Scholarships for Students",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000412"
+    },
+    {
+      "daad_program_id": "10000418",
+      "title": "Ernst Ludwig Ehrlich Studienwerk: Doctoral Scholarship",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000418"
+    },
+    {
+      "daad_program_id": "10000422",
+      "title": "RWTH International Academy: Women in Engineering Scholarship",
+      "provider_is_daad": false,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000422"
+    },
+    {
+      "daad_program_id": "50015276",
+      "title": "ALECOSTA: Alemania-Costa Rica",
+      "provider_is_daad": true,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015276"
+    },
+    {
+      "daad_program_id": "10000429",
+      "title": "Hertie School: Human Rights Scholarship",
+      "provider_is_daad": false,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "B"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000429"
+    },
+    {
+      "daad_program_id": "10000437",
+      "title": "Federal Ministry of Education and Research: Digital GreenTalents Award",
+      "provider_is_daad": false,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000437"
+    },
+    {
+      "daad_program_id": "57471581",
+      "title": "Combined study and practical stays for engineers from developing countries (KOSPIE) with Mexican universities",
+      "provider_is_daad": true,
+      "status_ids": [
+        1
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57471581"
+    },
+    {
+      "daad_program_id": "57352834",
+      "title": "Practical Traineeships for Foreign Students of Natural and Technical Sciences, Agriculture and Forestry (IAESTE)",
+      "provider_is_daad": true,
+      "status_ids": [
+        1,
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57352834"
+    },
+    {
+      "daad_program_id": "10000486",
+      "title": "In-Country/In-Region Programme Sub-Saharan Africa",
+      "provider_is_daad": true,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000486"
+    },
+    {
+      "daad_program_id": "57549329",
+      "title": "Government Scholarships Programme Paraguay BECAL-DAAD Promotion",
+      "provider_is_daad": true,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "C",
+        "E",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57549329"
+    },
+    {
+      "daad_program_id": "10000494",
+      "title": "SBW Berlin Scholarship",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000494"
+    },
+    {
+      "daad_program_id": "50015450",
+      "title": "Overseas Scholarship Scheme for MSc leading to PhD",
+      "provider_is_daad": true,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015450"
+    },
+    {
+      "daad_program_id": "10000509",
+      "title": "Jean Monnet Scholarship Programme (JMSP)",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "E",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000509"
+    },
+    {
+      "daad_program_id": "57593463",
+      "title": "Government Scholarships Programme Paraguay BECAL-DAAD Master",
+      "provider_is_daad": true,
+      "status_ids": [
+        1,
+        3
+      ],
+      "subject_groups": [
+        "C",
+        "E",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57593463"
+    },
+    {
+      "daad_program_id": "10000543",
+      "title": "Klassik Stiftung Weimar Fellowships",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000543"
+    },
+    {
+      "daad_program_id": "10000550",
+      "title": "Alexander von Humboldt Foundation: International Climate Protection Fellowship",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        3
+      ],
+      "subject_groups": [
+        "B",
+        "C",
+        "E",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000550"
+    },
+    {
+      "daad_program_id": "10000551",
+      "title": "Bayer Foundation: Fellowship for Agricultural Science",
+      "provider_is_daad": false,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "C",
+        "E",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000551"
+    },
+    {
+      "daad_program_id": "10000556",
+      "title": "Leibniz Institute of European History Mainz: Fellowships for Doctoral Students",
+      "provider_is_daad": false,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000556"
+    },
+    {
+      "daad_program_id": "10000560",
+      "title": "Indo-German Science and Technology Centre (IGSTC): Women Involvement in Science and Engineering Research (WISER)",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "C",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000560"
+    },
+    {
+      "daad_program_id": "10000562",
+      "title": "Indo-German Science and Technology Centre (IGSTC): Paired Early Career Fellowship in Applied Research (PECFAR)",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        3,
+        4
+      ],
+      "subject_groups": [
+        "C",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000562"
+    },
+    {
+      "daad_program_id": "57649740",
+      "title": "Gilman-DAAD Germany Scholarships",
+      "provider_is_daad": true,
+      "status_ids": [
+        1
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57649740"
+    },
+    {
+      "daad_program_id": "50015361",
+      "title": "Taiwan Summer Institute Programme",
+      "provider_is_daad": true,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "C",
+        "E",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015361"
+    },
+    {
+      "daad_program_id": "50026397",
+      "title": "Helmut-Schmidt-Programme (Master’s Scholarships for Public Policy and Good Governance - PPGG)",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "B"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026397"
+    },
+    {
+      "daad_program_id": "10000575",
+      "title": "HessenFonds for Refugees and Researchers at Risk",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000575"
+    },
+    {
+      "daad_program_id": "50016578",
+      "title": "DAAD-TEV-Master's degree scholarships",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50016578"
+    },
+    {
+      "daad_program_id": "10000611",
+      "title": "DAAD Zuse School of Embedded Composite Artificial Intelligence (SECAI): Scholarships for Master's students in AI",
+      "provider_is_daad": false,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "B",
+        "C",
+        "D",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000611"
+    },
+    {
+      "daad_program_id": "10000612",
+      "title": "DAAD Konrad Zuse School of Excellence in Reliable Artificial Intelligence (relAI): Scholarship for Master's Students and PhD Candidates",
+      "provider_is_daad": false,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "C",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000612"
+    },
+    {
+      "daad_program_id": "10000622",
+      "title": "Residential Fellowships at the Center for Advanced Internet Studies (CAIS)",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000622"
+    },
+    {
+      "daad_program_id": "50015638",
+      "title": "RISE Professional - Research Internships in Science and Engineering",
+      "provider_is_daad": true,
+      "status_ids": [
+        1,
+        3,
+        4
+      ],
+      "subject_groups": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015638"
+    },
+    {
+      "daad_program_id": "50020910",
+      "title": "RISE Germany - Research Internships in Science and Engineering",
+      "provider_is_daad": true,
+      "status_ids": [
+        1
+      ],
+      "subject_groups": [
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50020910"
+    },
+    {
+      "daad_program_id": "10000633",
+      "title": "International Scholarship Programme of the Avicenna Studienwerk",
+      "provider_is_daad": false,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000633"
+    },
+    {
+      "daad_program_id": "10000639",
+      "title": "Alfred Toepfer Stiftung & Studienstiftung des deutschen Volkes: You and Europe Scholarship Programme",
+      "provider_is_daad": false,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000639"
+    },
+    {
+      "daad_program_id": "10000652",
+      "title": "Alfried Krupp Wissenschaftskolleg Greifswald: Alfried Krupp Fellowships",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000652"
+    },
+    {
+      "daad_program_id": "50015315",
+      "title": "Sino-German (CSC-DAAD) Postdoc Scholarship Program",
+      "provider_is_daad": true,
+      "status_ids": [
+        2,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015315"
+    },
+    {
+      "daad_program_id": "10000666",
+      "title": "Hanse-Wissenschaftskolleg (HWK): Funded Regular and Junior Fellowships",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000666"
+    },
+    {
+      "daad_program_id": "57808993",
+      "title": "Government Scholarships Programme Mexico COMECYT-DAAD Master",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57808993"
+    },
+    {
+      "daad_program_id": "57809001",
+      "title": "Government Scholarships Programme Mexico COMECYT-DAAD Promotion",
+      "provider_is_daad": true,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57809001"
+    },
+    {
+      "daad_program_id": "57814471",
+      "title": "Country-related cooperation programme with Colombia (COLFUTURO - Fundación para el Futuro de Colombia) Master",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57814471"
+    },
+    {
+      "daad_program_id": "57814472",
+      "title": "Country-related cooperation programme with Colombia (COLFUTURO - Fundación para el Futuro de Colombia) Promotion",
+      "provider_is_daad": true,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57814472"
+    },
+    {
+      "daad_program_id": "57471580",
+      "title": "Combined study and practical stays for engineers from developing countries (KOSPIE) with Colombian universities",
+      "provider_is_daad": true,
+      "status_ids": [
+        1
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57471580"
+    },
+    {
+      "daad_program_id": "50015217",
+      "title": "Programme d'Etudes en Allemagne (PEA)",
+      "provider_is_daad": true,
+      "status_ids": [
+        1
+      ],
+      "subject_groups": [
+        "A"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015217"
+    },
+    {
+      "daad_program_id": "57655437",
+      "title": "TheMuseumsLab",
+      "provider_is_daad": true,
+      "status_ids": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57655437"
+    },
+    {
+      "daad_program_id": "50076777",
+      "title": "Development-Related Postgraduate Courses (EPOS)",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777"
+    },
+    {
+      "daad_program_id": "50019749",
+      "title": "DLR-DAAD Research Fellowship Programme",
+      "provider_is_daad": true,
+      "status_ids": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "C",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50019749"
+    },
+    {
+      "daad_program_id": "10000681",
+      "title": "University of Konstanz: ZUKOnnect Fellowships for Scholars from Africa, Asia and Latin America",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000681"
+    },
+    {
+      "daad_program_id": "50026200",
+      "title": "Study Scholarships - Master Studies for All Academic Disciplines",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200"
+    },
+    {
+      "daad_program_id": "50109971",
+      "title": "Study Scholarships - Postgraduate Studies in the Field of the Performing Arts",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50109971"
+    },
+    {
+      "daad_program_id": "57135739",
+      "title": "Doctoral Programmes in Germany",
+      "provider_is_daad": true,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135739"
+    },
+    {
+      "daad_program_id": "57135742",
+      "title": "Study Scholarships - Postgraduate Studies in the Fields of Fine Art, Design, Visual Communication and Film",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135742"
+    },
+    {
+      "daad_program_id": "57135743",
+      "title": "Study Scholarships - Postgraduate Studies in the Field of Music",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743"
+    },
+    {
+      "daad_program_id": "57135744",
+      "title": "Study Scholarships - Postgraduate Studies in the Field of Architecture",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744"
+    },
+    {
+      "daad_program_id": "57507783",
+      "title": "Bi-nationally Supervised Doctoral Degrees / Cotutelle",
+      "provider_is_daad": true,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57507783"
+    },
+    {
+      "daad_program_id": "57742130",
+      "title": "Study scholarships for STEM disciplines",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "C",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742130"
+    },
+    {
+      "daad_program_id": "50015171",
+      "title": "ERP Study Scholarships for Graduates of Economics and Business Administration",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "B"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015171"
+    },
+    {
+      "daad_program_id": "50017039",
+      "title": "DAAD-Short-term scholarships for master's degree students",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50017039"
+    },
+    {
+      "daad_program_id": "50046485",
+      "title": "University Winter Courses in Germany for Foreign Students and Graduates",
+      "provider_is_daad": true,
+      "status_ids": [
+        1,
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50046485"
+    },
+    {
+      "daad_program_id": "57862424",
+      "title": "Cooperation programme with Mexico (SECIHTI – Secretaría de Ciencia, Humanidades, Tecnología e Innovación) Master",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57862424"
+    },
+    {
+      "daad_program_id": "57862427",
+      "title": "GROW – Global Research Opportunities for the South",
+      "provider_is_daad": true,
+      "status_ids": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57862427"
+    },
+    {
+      "daad_program_id": "57504697",
+      "title": "Combined Study and Practice Stays for Engineers from Developing Countries (KOSPIE) with Indian IITs",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "C",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57504697"
+    },
+    {
+      "daad_program_id": "50015492",
+      "title": "Re-invitation Programme for Former Scholarship Holders",
+      "provider_is_daad": true,
+      "status_ids": [
+        2,
+        3,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015492"
+    },
+    {
+      "daad_program_id": "50015508",
+      "title": "Bilateral Exchange of Academics (to Germany)",
+      "provider_is_daad": true,
+      "status_ids": [
+        2,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015508"
+    },
+    {
+      "daad_program_id": "50110016",
+      "title": "Study Visits for Academics - Artists and Architects",
+      "provider_is_daad": true,
+      "status_ids": [
+        2,
+        3,
+        5
+      ],
+      "subject_groups": [
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50110016"
+    },
+    {
+      "daad_program_id": "57742121",
+      "title": "Research Grants in Germany",
+      "provider_is_daad": true,
+      "status_ids": [
+        2,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121"
+    },
+    {
+      "daad_program_id": "57593632",
+      "title": "KOSPIE Combined study and practice stays for engineers from developing countries Tunisia",
+      "provider_is_daad": true,
+      "status_ids": [
+        1,
+        3
+      ],
+      "subject_groups": [
+        "C",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57593632"
+    },
+    {
+      "daad_program_id": "10000689",
+      "title": "Göttingen Academy of Sciences and Humanities: Hannah Arendt Fellowships",
+      "provider_is_daad": false,
+      "status_ids": [
+        2,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000689"
+    },
+    {
+      "daad_program_id": "57379863",
+      "title": "Joint Rustaveli-DAAD-fellowship programme",
+      "provider_is_daad": true,
+      "status_ids": [
+        2,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57379863"
+    },
+    {
+      "daad_program_id": "50015282",
+      "title": "In-Region Scholarships for Postgraduate Studies for Yemenis in Jordan",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015282"
+    },
+    {
+      "daad_program_id": "57871506",
+      "title": "Future Network Weimar Triangle: Science for Europe - Doctoral candidates (to Germany)",
+      "provider_is_daad": true,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57871506"
+    },
+    {
+      "daad_program_id": "57871508",
+      "title": "Future Network Weimar Triangle: Science for Europe - Postdoctoral researchers (to Germany)",
+      "provider_is_daad": true,
+      "status_ids": [
+        2
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57871508"
+    },
+    {
+      "daad_program_id": "57378178",
+      "title": "Co-funded Research Grants – Short-Term Grants - DAAD",
+      "provider_is_daad": true,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57378178"
+    },
+    {
+      "daad_program_id": "57874180",
+      "title": "EU-Projekt Scholarships for Technical and post-Secondary Education Pathways (STEP)",
+      "provider_is_daad": true,
+      "status_ids": [
+        1
+      ],
+      "subject_groups": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57874180"
+    },
+    {
+      "daad_program_id": "57652675",
+      "title": "In-Country Scholarships for Postgraduate Studies for Palestinians in the Palestinian Territories (West Bank)",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57652675"
+    },
+    {
+      "daad_program_id": "50078419",
+      "title": "DAAD/BECAS Chile",
+      "provider_is_daad": true,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50078419"
+    },
+    {
+      "daad_program_id": "50035295",
+      "title": "University Summer Courses offered in Germany for Foreign Students and Graduates",
+      "provider_is_daad": true,
+      "status_ids": [
+        1,
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50035295"
+    },
+    {
+      "daad_program_id": "57883183",
+      "title": "Heilbronn AI Fellowships",
+      "provider_is_daad": true,
+      "status_ids": [
+        2,
+        4
+      ],
+      "subject_groups": [
+        "C"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57883183"
+    },
+    {
+      "daad_program_id": "50015446",
+      "title": "DAAD-K.C.Wong Postdoc Fellowships",
+      "provider_is_daad": true,
+      "status_ids": [
+        2
+      ],
+      "subject_groups": [
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015446"
+    },
+    {
+      "daad_program_id": "57650857",
+      "title": "Future Ukraine: Research Grants for Ukrainian Master´s students and researchers ",
+      "provider_is_daad": true,
+      "status_ids": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57650857"
+    },
+    {
+      "daad_program_id": "10000699",
+      "title": "BAYHOST/BTHA: Bavaria’s Annual Scholarship Programme",
+      "provider_is_daad": false,
+      "status_ids": [
+        3,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000699"
+    },
+    {
+      "daad_program_id": "10000700",
+      "title": "BAYHOST: Scholarships for language and short courses (summer/winter schools) for students and researchers from the Czech Republic",
+      "provider_is_daad": false,
+      "status_ids": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000700"
+    },
+    {
+      "daad_program_id": "50094047",
+      "title": "CAS-DAAD-Programme / Joint Fellowship Programme for Doctoral Students of CAS",
+      "provider_is_daad": true,
+      "status_ids": [
+        4
+      ],
+      "subject_groups": [
+        "C",
+        "D",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50094047"
+    }
+  ],
+  "run_id": "9f14c25c-802d-4c3f-9757-e4a041ac5d91",
+  "retrieved_at": "2026-10-18T19:50:10.061619+00:00",
+  "selected_programs": [
+    {
+      "daad_program_id": "57135743",
+      "title": "Study Scholarships - Postgraduate Studies in the Field of Music",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743"
+    },
+    {
+      "daad_program_id": "57135744",
+      "title": "Study Scholarships - Postgraduate Studies in the Field of Architecture",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744"
+    },
+    {
+      "daad_program_id": "50026200",
+      "title": "Study Scholarships - Master Studies for All Academic Disciplines",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200"
+    },
+    {
+      "daad_program_id": "57742121",
+      "title": "Research Grants in Germany",
+      "provider_is_daad": true,
+      "status_ids": [
+        2,
+        4
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121"
+    },
+    {
+      "daad_program_id": "50076777",
+      "title": "Development-Related Postgraduate Courses (EPOS)",
+      "provider_is_daad": true,
+      "status_ids": [
+        3
+      ],
+      "subject_groups": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "prepared_at": "2026-10-18T20:30:00.448042+00:00",
+  "source_run_id": "9f14c25c-802d-4c3f-9757-e4a041ac5d91",
+  "source_retrieval_timestamps_preserved": true,
+  "counts": {
+    "scholarship_sources": 1,
+    "fetch_runs": 1,
+    "scholarships": 5,
+    "scholarship_change_history": 0,
+    "scholarship_snapshots": 5,
+    "scholarship_variants": 6,
+    "scholarship_requirements": 95,
+    "scholarship_language_requirements": 47,
+    "scholarship_required_documents": 75,
+    "scholarship_deadlines": 23,
+    "scholarship_funding": 77,
+    "scholarship_evidence": 23
+  },
+  "network_requests": 0,
+  "remote_database_writes": 0,
+  "schema_migrations": [
+    "20261018171637_initial_mada_schema.sql",
+    "20261018200000_scholarship_details.sql"
+  ]
+}

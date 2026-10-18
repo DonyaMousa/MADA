@@ -1,0 +1,21 @@
+[project]
+name = "mada-scraping"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+  "httpx>=0.28,<0.29", "beautifulsoup4>=4.13,<5", "lxml>=6,<7",
+  "pydantic>=2.11,<3", "PyMuPDF>=1.26,<2", "playwright>=1.50,<2", "tenacity>=9,<10", "tzdata>=2025.1",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<10"]
+
+[tool.pytest.ini_options]
+testpaths = ["app/scraping/tests"]
+pythonpath = ["."]
+markers = ["live: explicit network/browser integration checks (not part of offline suite)"]
+addopts = "-m 'not live'"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["app*"]

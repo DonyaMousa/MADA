@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="9.781" timestamp="2026-10-18T23:27:52.331729+03:00" hostname="DESKTOP-KKRS3RG"><testcase classname="app.scraping.tests.test_live" name="test_live_browser_egypt_submission" time="9.466" /></testsuite></testsuites>

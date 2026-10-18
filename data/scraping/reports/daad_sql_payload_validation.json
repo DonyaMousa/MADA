@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "checked_at": "2026-10-18T20:31:05.021Z",
+  "engine": "PostgreSQL 17.5 / PGlite",
+  "counts": {
+    "scholarship_sources": 1,
+    "fetch_runs": 1,
+    "scholarships": 5,
+    "scholarship_snapshots": 5,
+    "scholarship_variants": 6,
+    "scholarship_requirements": 95,
+    "scholarship_language_requirements": 47,
+    "scholarship_required_documents": 75,
+    "scholarship_deadlines": 23,
+    "scholarship_funding": 77,
+    "scholarship_evidence": 23,
+    "scholarship_change_history": 0
+  },
+  "rows_checked": 358,
+  "remote_writes": 0,
+  "payload_sha256": "fa72c035b85bacf35817da840472dab228373fb171f6b247865f2d396682db39",
+  "transaction": "rolled back; disposable local validation only",
+  "checks": [
+    "real typed row inserts",
+    "all SQL CHECKs and FKs",
+    "deferred latest snapshot ownership",
+    "research IELTS 6.5 / TOEFL iBT 79",
+    "publication list scoped to postdoctoral applicants",
+    "no invented minimum GPA",
+    "25 course rows and websites survive snapshot JSON round-trip",
+    "no shared EPOS deadline",
+    "residence is not language",
+    "all scholarships unpublished and needs_review"
+  ]
+}

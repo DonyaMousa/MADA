@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://www2.daad.de/robots.txt",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T20:27:53.121402Z",
+    "status_code": 404,
+    "sha256": "80c3fe2ae1062abf56456f52518bd670f9ec3917b7f85e152b347ac6b6faf880",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/live_browser_test/80c3fe2ae1062abf56456f52518bd670f9ec3917b7f85e152b347ac6b6faf880.html",
+    "request_data": null,
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T20:27:54.172692Z",
+    "status_code": 200,
+    "sha256": "39ad7d1e9a1b00014c9ea48148be8409cdbf837ad6d0a115cc4506f7c3455af7",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/live_browser_test/39ad7d1e9a1b00014c9ea48148be8409cdbf837ad6d0a115cc4506f7c3455af7.html",
+    "request_data": null,
+    "content_type": "text/html; charset=UTF-8"
+  }
+]

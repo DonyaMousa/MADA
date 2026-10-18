@@ -1,0 +1,302 @@
+[
+  {
+    "url": "https://www2.daad.de/robots.txt",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:07.664518Z",
+    "status_code": 404,
+    "sha256": "80c3fe2ae1062abf56456f52518bd670f9ec3917b7f85e152b347ac6b6faf880",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/80c3fe2ae1062abf56456f52518bd670f9ec3917b7f85e152b347ac6b6faf880.html",
+    "request_data": null,
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:08.668613Z",
+    "status_code": 200,
+    "sha256": "d464815e14eba4c6e0616c3c9c43e4f73e1a1f78dcf0ff0fa9ed43105c03b8c0",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/d464815e14eba4c6e0616c3c9c43e4f73e1a1f78dcf0ff0fa9ed43105c03b8c0.html",
+    "request_data": null,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadstipendiendatenbanklsh/data/a/js/scholarships.js?ea6a8f3ff&cb=20261018073500",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:10.056499Z",
+    "status_code": 200,
+    "sha256": "bb1a3301e0c22a50c70e05f58908dc38bb907f6297e7f246affd8a223d79a087",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/bb1a3301e0c22a50c70e05f58908dc38bb907f6297e7f246affd8a223d79a087.html",
+    "request_data": null,
+    "content_type": "text/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:11.229106Z",
+    "status_code": 200,
+    "sha256": "39ad7d1e9a1b00014c9ea48148be8409cdbf837ad6d0a115cc4506f7c3455af7",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/39ad7d1e9a1b00014c9ea48148be8409cdbf837ad6d0a115cc4506f7c3455af7.html",
+    "request_data": null,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743&cd=1",
+    "method": "POST",
+    "retrieved_at": "2026-10-18T19:50:12.432974Z",
+    "status_code": 302,
+    "sha256": "1e135afb54bf948ed616b7e518ea9f59c8edad95a2d1dfbae8adc60b167c5f6c",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/1e135afb54bf948ed616b7e518ea9f59c8edad95a2d1dfbae8adc60b167c5f6c.html",
+    "request_data": {
+      "ref": "prozess",
+      "subjectGrps": "",
+      "daad": "",
+      "q": "",
+      "page": "1",
+      "origin": "2",
+      "status": "3"
+    },
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?subjectGrps=&daad=&q=&page=1&origin=2&status=3&detail=57135743#prozess",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:13.669521Z",
+    "status_code": 200,
+    "sha256": "9023478d9651879f466fa785c3a289587daa2b6d2e5da0bd4b29f0f1c820957d",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/9023478d9651879f466fa785c3a289587daa2b6d2e5da0bd4b29f0f1c820957d.html",
+    "request_data": null,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www.daad.de/robots.txt",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:15.089837Z",
+    "status_code": 200,
+    "sha256": "98a32cae104d102eec79974f8831f5624c4beac53e9233801964d803112d2dd2",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/98a32cae104d102eec79974f8831f5624c4beac53e9233801964d803112d2dd2.html",
+    "request_data": null,
+    "content_type": "text/plain"
+  },
+  {
+    "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/scholarship-database/additional-information-music/",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:17.091569Z",
+    "status_code": 301,
+    "sha256": "25102d36d823341e64defa112985ed43b03b5faa29e86136a6fad547dc25d12e",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/25102d36d823341e64defa112985ed43b03b5faa29e86136a6fad547dc25d12e.html",
+    "request_data": null,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://www.daad.de/en/studying-in-germany/scholarships/scholarship-database/information-music/",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:19.383960Z",
+    "status_code": 200,
+    "sha256": "910047f462c83fc9d579002b5fb1bfdaf39f817764f1d2172fd8068c7cb17af6",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/910047f462c83fc9d579002b5fb1bfdaf39f817764f1d2172fd8068c7cb17af6.html",
+    "request_data": null,
+    "content_type": "text/html;charset=utf-8"
+  },
+  {
+    "url": "https://www.daad.de/en/studying-in-germany/scholarships/scholarship-database/information-music/",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:20.985406Z",
+    "status_code": 200,
+    "sha256": "910047f462c83fc9d579002b5fb1bfdaf39f817764f1d2172fd8068c7cb17af6",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/910047f462c83fc9d579002b5fb1bfdaf39f817764f1d2172fd8068c7cb17af6.html",
+    "request_data": null,
+    "content_type": "text/html;charset=utf-8"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:23.143770Z",
+    "status_code": 200,
+    "sha256": "a04ae1d6490140c9e452d4621bcb1f060927b30006b313b28c722ca5426c2d98",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/a04ae1d6490140c9e452d4621bcb1f060927b30006b313b28c722ca5426c2d98.html",
+    "request_data": null,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135744&cd=1",
+    "method": "POST",
+    "retrieved_at": "2026-10-18T19:50:24.944339Z",
+    "status_code": 302,
+    "sha256": "1e135afb54bf948ed616b7e518ea9f59c8edad95a2d1dfbae8adc60b167c5f6c",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/1e135afb54bf948ed616b7e518ea9f59c8edad95a2d1dfbae8adc60b167c5f6c.html",
+    "request_data": {
+      "ref": "prozess",
+      "subjectGrps": "",
+      "daad": "",
+      "q": "",
+      "page": "1",
+      "origin": "2",
+      "status": "3"
+    },
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?subjectGrps=&daad=&q=&page=1&origin=2&status=3&detail=57135744#prozess",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:26.973367Z",
+    "status_code": 200,
+    "sha256": "3ee93a1d49fdd7970b9be333ac2b47cb400588b7649458c691f4ebfdb8360b84",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/3ee93a1d49fdd7970b9be333ac2b47cb400588b7649458c691f4ebfdb8360b84.html",
+    "request_data": null,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www.daad.de/en/studying-in-germany/scholarships/scholarship-database/subject-specific-information/",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:29.500766Z",
+    "status_code": 200,
+    "sha256": "902be887e6df75e813924511f643020110b828157c1219a5d0e44961871d3199",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/902be887e6df75e813924511f643020110b828157c1219a5d0e44961871d3199.html",
+    "request_data": null,
+    "content_type": "text/html;charset=utf-8"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:30.982575Z",
+    "status_code": 200,
+    "sha256": "bdc62430595800d5391d57aa5c9cb0524cde17d3cc39579d611cd360f03dbb6b",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/bdc62430595800d5391d57aa5c9cb0524cde17d3cc39579d611cd360f03dbb6b.html",
+    "request_data": null,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:32.985267Z",
+    "status_code": 200,
+    "sha256": "1359785f34c33114c09746c4cb7e4608f6e0a9f64aa92d0d0bbedefecb0e0d14",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/1359785f34c33114c09746c4cb7e4608f6e0a9f64aa92d0d0bbedefecb0e0d14.html",
+    "request_data": null,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&cd=1",
+    "method": "POST",
+    "retrieved_at": "2026-10-18T19:50:34.932674Z",
+    "status_code": 302,
+    "sha256": "1e135afb54bf948ed616b7e518ea9f59c8edad95a2d1dfbae8adc60b167c5f6c",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/1e135afb54bf948ed616b7e518ea9f59c8edad95a2d1dfbae8adc60b167c5f6c.html",
+    "request_data": {
+      "ref": "prozess",
+      "subjectGrps": "",
+      "daad": "",
+      "q": "",
+      "page": "1",
+      "origin": "2",
+      "status": "4"
+    },
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?subjectGrps=&daad=&q=&page=1&origin=2&status=4&detail=57742121#prozess",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:36.924019Z",
+    "status_code": 200,
+    "sha256": "ae88ef56cd5a6905e58deb788b71d223d688764fdb0c4cacf3aa8f6e48a9a612",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/ae88ef56cd5a6905e58deb788b71d223d688764fdb0c4cacf3aa8f6e48a9a612.html",
+    "request_data": null,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121&cd=1",
+    "method": "POST",
+    "retrieved_at": "2026-10-18T19:50:38.939663Z",
+    "status_code": 302,
+    "sha256": "1e135afb54bf948ed616b7e518ea9f59c8edad95a2d1dfbae8adc60b167c5f6c",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/1e135afb54bf948ed616b7e518ea9f59c8edad95a2d1dfbae8adc60b167c5f6c.html",
+    "request_data": {
+      "ref": "prozess",
+      "subjectGrps": "",
+      "daad": "",
+      "q": "",
+      "page": "1",
+      "origin": "2",
+      "status": "2"
+    },
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?subjectGrps=&daad=&q=&page=1&origin=2&status=2&detail=57742121#prozess",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:40.991964Z",
+    "status_code": 200,
+    "sha256": "4c1d71719e0f518751f4a3a946f0b02d16cd638a5b7c1bba9193ef41d4bd0247",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/4c1d71719e0f518751f4a3a946f0b02d16cd638a5b7c1bba9193ef41d4bd0247.html",
+    "request_data": null,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www.daad.de/en/studying-in-germany/scholarships/scholarship-database/subject-specific-information/",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:43.183547Z",
+    "status_code": 200,
+    "sha256": "902be887e6df75e813924511f643020110b828157c1219a5d0e44961871d3199",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/902be887e6df75e813924511f643020110b828157c1219a5d0e44961871d3199.html",
+    "request_data": null,
+    "content_type": "text/html;charset=utf-8"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:44.927976Z",
+    "status_code": 200,
+    "sha256": "84d873bdb8bb5a1eba68b8fda66a24e7ffdc354a237ead68282ea06f99766d54",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/84d873bdb8bb5a1eba68b8fda66a24e7ffdc354a237ead68282ea06f99766d54.html",
+    "request_data": null,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777&cd=1",
+    "method": "POST",
+    "retrieved_at": "2026-10-18T19:50:46.942795Z",
+    "status_code": 302,
+    "sha256": "1e135afb54bf948ed616b7e518ea9f59c8edad95a2d1dfbae8adc60b167c5f6c",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/1e135afb54bf948ed616b7e518ea9f59c8edad95a2d1dfbae8adc60b167c5f6c.html",
+    "request_data": {
+      "ref": "prozess",
+      "subjectGrps": "",
+      "daad": "",
+      "q": "",
+      "page": "1",
+      "origin": "2",
+      "status": "3"
+    },
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?subjectGrps=&daad=&q=&page=1&origin=2&status=3&detail=50076777#prozess",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:48.928502Z",
+    "status_code": 200,
+    "sha256": "6ef6b3431b643b335c2cf615d9a3842fb3eecb47e21b154c0f52735d806b0d55",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/6ef6b3431b643b335c2cf615d9a3842fb3eecb47e21b154c0f52735d806b0d55.html",
+    "request_data": null,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://static.daad.de/robots.txt",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:51.095503Z",
+    "status_code": 404,
+    "sha256": "80c3fe2ae1062abf56456f52518bd670f9ec3917b7f85e152b347ac6b6faf880",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/80c3fe2ae1062abf56456f52518bd670f9ec3917b7f85e152b347ac6b6faf880.html",
+    "request_data": null,
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  {
+    "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_epos_deadlines.pdf",
+    "method": "GET",
+    "retrieved_at": "2026-10-18T19:50:53.132009Z",
+    "status_code": 200,
+    "sha256": "47570958dc3eb6d0c2f12cb7a15ab994faa35ca4ecc9c6464d35a06e997c94c4",
+    "local_path": "C:/Users/msi/Desktop/MADA/data/scraping/raw/47570958dc3eb6d0c2f12cb7a15ab994faa35ca4ecc9c6464d35a06e997c94c4.pdf",
+    "request_data": null,
+    "content_type": "application/pdf"
+  }
+]
